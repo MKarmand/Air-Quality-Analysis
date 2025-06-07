@@ -87,7 +87,6 @@ Menganalisis bagaimana kualitas udara (berdasarkan PM2.5) berubah sepanjang wakt
 
 ---
 
-## 🚀 Link Aplikasi Streamlit
 
 > 📌 *Jika Anda menjalankan proyek ini secara publik menggunakan Streamlit Cloud, tautkan di bawah ini:*
 
